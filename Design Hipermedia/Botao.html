@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+<button class="botao" id="anim01">HIPERMEDIA</button>
+<button class="botao" id="anim02">HIPERMEDIA</button>
+<style>
+    .botao{
+        width: 150px;
+        height: 80px;
+        background-color:pink;
+        color: purple;
+        border: dotted 5px chocolate;
+        transition-duration: 0.10s;
+    }
+    #anim02{
+        position: relative;
+    }
+    #anim02:before{
+        position:absolute;
+        content:"";
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 3px;
+        background-color: blueviolet;
+        
+    }
+    #anim02:after{
+        position:absolute;
+        content:"";
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 3px;
+        background-color: blueviolet;
+    }
+    #anim01{
+        border: 3px solid blueviolet;
+        transition-duration: 200ms;
+    }
+    #anim01:hover{
+        background-color: blueviolet;
+        color: white;
+    }
+
+   <style>
+
+</body>
+</html>
