@@ -1,0 +1,294 @@
+.cor-principal{
+    color: rgb(228, 195, 9);
+    font-weight: 100px ;
+}
+.cor-secund{
+    color: rgb(219, 3, 3);
+}
+.cor-ter{
+    color: rgb(255, 255, 255);
+    margin-left: 25px;
+}
+h1 {
+    font-weight: 900;
+    height: 40px;
+    margin: 5px;
+    line-height: 0.8;
+}
+.botao{
+    background-color: rgb(228, 195, 9);
+    border-color: rgb(228, 195, 9);
+    border-radius: 10px;
+}
+.botaodois{
+    background-color: red;
+    border-radius: 10px;
+}
+.carrito{
+    height: 30px;
+    width: 30px;
+}
+.branco{
+    color: white;
+}
+.redbar1{
+    background-color: rgb(182, 9, 9);
+    color: rgb(182, 9, 9);
+    height: 1820px;
+    width: 1115px;
+}
+.redbar2{
+    background-color: rgb(182, 9, 9);
+    color: rgb(182, 9, 9);
+    height: 500px;
+    width: 1115px;
+}
+.redbar3{
+    background-color: rgb(182, 9, 9);
+    color: rgb(182, 9, 9);
+    height: 550px;
+    width: 1115px;
+}
+.redbar4{
+    background-color: rgb(182, 9, 9);
+    color: rgb(182, 9, 9);
+    height: 1150px;
+    width: 1115px;
+}
+.redbar5{
+    background-color: rgb(182, 9, 9);
+    color: rgb(182, 9, 9);
+    height: 1550px;
+    width: 1115px;
+}
+.containerfoot{
+    background-color: rgb(230, 178, 7);
+    color: rgb(230, 178, 7);
+    height: 430px;
+    width: 1115px;
+    margin-left: 117px;
+}
+footer .col-lg-13{
+    color: cornsilk;
+}
+.social-media a {
+    padding: 0 10px;
+    color: rgb(182, 9, 9);
+    text-decoration: none;
+}
+header .col-lg-14{
+    color: rgb(145, 184, 145);
+}
+.botaologin{
+    background-color: rgb(197, 191, 192);
+    border-radius: 10px;
+}
+.b1{
+    margin: 5px;
+    width: 200px;
+    height: 35px;
+    font-size: 15px;
+}
+.blogin{
+    background-color: rgb(230, 178, 7);
+    border-color: rgb(145, 184, 145);
+    border-radius: 10px;
+    margin-left: 500px;
+    width: 100px;
+    height: 35px;
+    font-size: 15px;
+    font-style: italic;
+
+}
+.frentealmar{
+    width: 750px;
+    height: 300px;
+    margin-left: 175px;
+    border-radius: 20px;
+}
+.letrasblancas{
+    color: white;
+}
+.blanco{
+    background-color: white;
+}
+.medalla{
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+}
+.center{
+    margin-left: 420px;
+}
+.chefs{
+    width: 200px;
+    height: 200px;
+    border-radius: 30px;
+}
+.marg25{
+    margin-left: 25px;
+}
+.marg60{
+    margin-left: 60px;
+}
+.marg350{
+    margin-left: 350px;
+}
+.marg400{
+    margin-left: 400px;
+}
+.containercar{
+    background-color: seagreen;
+    width: 800px;
+    height: 500px;
+    border-radius: 20px;
+    margin-left: 160px;
+}
+.burgir{
+    width: 250px;
+    height: 180px;
+    border-radius: 10%;
+    margin-left: 60px;
+}
+.botaocom{
+    background-color: tan;
+    color: blue;
+    font-style: oblique;
+    border-radius: 10px;
+    width: 200px;
+    height: 75px;
+    margin-top: 70px;
+    margin-left: 5px;
+}
+.botaocom2{
+    background-color: rgb(21, 73, 214);
+    border-color: rgb(145, 184, 145);
+    border-radius: 20px;
+    width: 120px;
+    height: 80px;
+}
+.paypal{
+    width: 100px;
+    height: 65px;
+    border-radius: 20px;
+}
+.normal{
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    margin-left: 105px;
+}
+.samu{
+    width: 200px;
+    height: 300px;
+    border-radius: 10px;
+    margin-left: 30px;
+}
+.arca{
+    width: 250px;
+    height: 300px;
+    border-radius: 10px;
+}
+.cono{
+    width: 250px;
+    height: 300px;
+    border-radius: 10px;
+}
+.estrellas{
+    margin-left: 800px;
+    width: 200px;
+    height: 50px;
+    border-radius: 15px;
+    margin-top: 20px;
+}
+.separation{
+    background-color: rgb(230, 178, 7);
+    width: 1000px;
+    height: 5px;
+    margin-left: 20px;
+}
+.puntuaje{
+    margin-left: 810px;
+    color:rgb(255, 255, 255);
+}
+.tipa{
+    width: 250px;
+    height: 250px;
+    border-radius: 20px;
+}
+.tipa2{
+    width: 250px;
+    height: 250px;
+    border-radius: 20px;
+}
+.brr{
+    width: 250px;
+    height: 250px;
+    border-radius: 20px;
+}
+.cor-cuarto{
+    color: rgb(228, 209, 146);
+}
+.basic{
+    width: 250px;
+    height: 200px;
+    border-radius: 30%;
+}
+.especial{
+    width: 250px;
+    height: 200px;
+    border-radius: 30%;
+}
+.especialist{
+    width: 250px;
+    height: 200px;
+    border-radius: 30%;
+}
+.whoper{
+    width: 250px;
+    height: 200px;
+    border-radius: 30%;
+}
+.bomb{
+    width: 250px;
+    height: 200px;
+    border-radius: 30%;
+}
+.super{
+    width: 250px;
+    height: 200px;
+    border-radius: 30%;
+}
+.samuchik{
+    width: 250px;
+    height: 180px;
+    border-radius: 30%;
+    margin-left: 35px;
+}
+.marg450{
+    margin-left: 430px;
+}
+.marg500{
+    margin-left: 500px;
+}
+.marg350{
+    margin-left: 330px;
+}
+.ffi{
+    width: 200px;
+    height: 400px;
+    border-radius: 30px;
+    margin-left: 60px;
+}
+.asgp{
+    width: 180px;
+    height: 100px;
+    border-radius: 5px;
+    margin-left: 35px;
+}
+.marg40{
+    margin-left: 40px;
+}
+.marg80{
+    margin-left: 175px;
+}
